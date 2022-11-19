@@ -4,6 +4,9 @@
 # package.par
 
 <!-- badges: start -->
+
+[![Codecov test
+coverage](https://codecov.io/gh/Flora843/package.par/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Flora843/package.par?branch=main)
 <!-- badges: end -->
 
 The goal of package.par is to …
